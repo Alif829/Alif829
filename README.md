@@ -18,10 +18,10 @@
 </p>
 <br>
 <br>
-<div>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alif829&show_icons=true)
+
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alif829&theme=blue-green)
-</div>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alif829&show_icons=true)
 <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Alif829/Alif829) -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Alif829)
