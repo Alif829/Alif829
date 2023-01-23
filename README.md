@@ -12,10 +12,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 <br>
+<br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alif829&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alif829&theme=blue-green)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Alif829/Alif829)
+<!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Alif829/Alif829) -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Alif829)
 <!---
