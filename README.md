@@ -2,9 +2,10 @@
 
 - 👀 I’m a student of Software Engineering studying in University of Dhaka
 - 🌱 I’m currently a Intern in Leads Corporation Bangladesh
-- 💞️ I’m trying to learn new technologies.I prefer java programming and web developing
+- 💞️ I’m trying to learn new technologies.I prefer Web development as well as programming
 - 🌱 I have a great passion for Graphic designing as well
 - 📫 Reach me on mail: bsse1120@iit.du.ac.bd
+- 📫 You can also follow me on LinkedIn: https://www.linkedin.com/in/lutfar829/
 
 ## 🧰 Languages and Tools:
 <p align="center">
