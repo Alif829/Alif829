@@ -1,7 +1,7 @@
 ## 👋 Hey,I'm Alif
 
 - 👀 I’m a student of Software Engineering studying in University of Dhaka
-- 🌱 I’m currently a Intern in Leads Corporation Bangladesh
+- 🌱 I’m currently a Intern at Leads Corporation Bangladesh
 - 💞️ I’m trying to learn new technologies.I prefer Web development as well as programming
 - 🌱 I have a great passion for Graphic designing as well
 - 📫 Reach me on mail: bsse1120@iit.du.ac.bd
